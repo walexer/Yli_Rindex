@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Yli_Rindex>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Yli_Redis/>
+            </depends>
+        </Yli_Rindex>
+    </modules>
+</config> 
